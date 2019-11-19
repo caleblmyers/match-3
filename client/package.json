@@ -34,7 +34,9 @@
     ]
   },
   "devDependencies": {
+    "prettier": "^1.19.1",
     "tslint": "^5.20.1",
-    "tslint-config-airbnb": "^5.11.2"
+    "tslint-config-airbnb": "^5.11.2",
+    "tslint-react": "^4.1.0"
   }
 }
